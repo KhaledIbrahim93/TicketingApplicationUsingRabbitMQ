@@ -1,0 +1,10 @@
+E:\Khaled Demos\Microservices.Ticketing.WebApi\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.deps.json
+E:\Khaled Demos\Microservices.Ticketing.WebApi\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.dll
+E:\Khaled Demos\Microservices.Ticketing.WebApi\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.pdb
+E:\Khaled Demos\Microservices.Ticketing.WebApi\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.csproj.AssemblyReference.cache
+E:\Khaled Demos\Microservices.Ticketing.WebApi\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Khaled Demos\Microservices.Ticketing.WebApi\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.AssemblyInfoInputs.cache
+E:\Khaled Demos\Microservices.Ticketing.WebApi\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.AssemblyInfo.cs
+E:\Khaled Demos\Microservices.Ticketing.WebApi\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.csproj.CoreCompileInputs.cache
+E:\Khaled Demos\Microservices.Ticketing.WebApi\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.dll
+E:\Khaled Demos\Microservices.Ticketing.WebApi\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.pdb

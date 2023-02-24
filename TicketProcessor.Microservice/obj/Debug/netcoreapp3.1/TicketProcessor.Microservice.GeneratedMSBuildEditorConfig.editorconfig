@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = TicketProcessor.Microservice
+build_property.ProjectDir = E:\Khaled Demos\Microservices.Ticketing.WebApi\TicketProcessor.Microservice\
